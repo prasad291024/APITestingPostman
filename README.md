@@ -81,10 +81,6 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-pgsql
-Copy
-Edit
-
 This README file provides an overview of the API automation projects contained in the repository, along with instructions on how to set up and run the tests using Postman.
 ::contentReference[oaicite:0]{index=0}
  
