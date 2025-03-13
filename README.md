@@ -2,6 +2,40 @@
 
 This repository showcases various API automation projects, each focusing on different aspects of API testing using Postman collections.
 
+# 🚀 API Automation Project
+
+## 📌 Overview
+This repository contains an **API Automation Testing Framework** designed to validate and ensure the reliability, performance, and security of APIs. The framework is built using **Postman, Rest Assured, and Java**, following best practices in API testing.
+
+## 🛠️ Tech Stack & Tools Used
+- **Programming Language**: Java
+- **Testing Framework**: TestNG
+- **API Testing**: Postman, Rest Assured
+- **Build & Dependency Management**: Maven
+- **CI/CD Integration**: Jenkins
+- **Version Control**: Git & GitHub
+- **Reporting**: Extent Reports, Allure Reports
+
+## 📂 Project Structure
+```
+APIAutomation/
+│── src/
+│   ├── main/java/ (Utility & Helper Classes)
+│   ├── test/java/ (Test Cases & API Testing Logic)
+│── pom.xml (Maven Dependencies)
+│── testng.xml (TestNG Configuration)
+│── README.md (Project Documentation)
+```
+
+## 🚀 Features
+✔️ **End-to-End API Testing** (GET, POST, PUT, DELETE)  
+✔️ **Automated Test Execution** with TestNG  
+✔️ **Request & Response Validation**  
+✔️ **Data-Driven Testing** using JSON & Excel  
+✔️ **Custom Reporting** (Extent Reports & Allure)  
+✔️ **CI/CD Integration** with Jenkins  
+✔️ **Error Handling & Logging**  
+
 ## Table of Contents
 
 - [Project 1: JSON Server API Testing](#project-1-json-server-api-testing)
@@ -83,6 +117,21 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 This README file provides an overview of the API automation projects contained in the repository, along with instructions on how to set up and run the tests using Postman.
 ::contentReference[oaicite:0]{index=0}
+
+## 🤝 Contribution Guidelines
+1. Fork the repository.
+2. Create a new branch (`feature/your-feature-name`).
+3. Commit your changes with meaningful messages.
+4. Push to your branch and create a pull request.
+
+## 📩 Contact
+📧 **Email**: [your email here]  
+🔗 **GitHub**: [GitHub Profile](https://github.com/prasad291024)  
+💼 **LinkedIn**: [Your LinkedIn Profile]  
+
+---
+⭐ If you find this project useful, don't forget to **star the repository!** 🌟
+
  
 
 
