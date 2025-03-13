@@ -1,8 +1,6 @@
-# API Automation Projects
+# 🚀 API Automation Project
 
 This repository showcases various API automation projects, each focusing on different aspects of API testing using Postman collections.
-
-# 🚀 API Automation Project
 
 ## 📌 Overview
 This repository contains an **API Automation Testing Framework** designed to validate and ensure the reliability, performance, and security of APIs. The framework is built using **Postman, Rest Assured, and Java**, following best practices in API testing.
