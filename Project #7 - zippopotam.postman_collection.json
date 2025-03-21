@@ -1,0 +1,52 @@
+{
+	"info": {
+		"_postman_id": "c8e1c6b7-5d5b-46c3-9838-2306ff31e413",
+		"name": "Project #7 - zippopotam",
+		"description": "**Zip Code Galore!**  \nbased on the pincode, it will give you details in json.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "42531135",
+		"_collection_link": "https://prasadapiautoamtion.postman.co/workspace/Prasad_API_Testing-Workspace~2e8c40ac-d74a-40a1-864e-f014dc880029/collection/42531135-c8e1c6b7-5d5b-46c3-9838-2306ff31e413?action=share&source=collection_link&creator=42531135"
+	},
+	"item": [
+		{
+			"name": "Basic GET request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "api.zippopotam.us/IN/110061",
+					"host": [
+						"api",
+						"zippopotam",
+						"us"
+					],
+					"path": [
+						"IN",
+						"110061"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "IN - 110001",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "api.zippopotam.us/IN/110001",
+					"host": [
+						"api",
+						"zippopotam",
+						"us"
+					],
+					"path": [
+						"IN",
+						"110001"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
